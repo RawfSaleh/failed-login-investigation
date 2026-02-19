@@ -1,0 +1,27 @@
+Date: 2026-02-19 14:02:11
+Event ID: 4625
+Account Name: USER01
+Workstation Name: WORKSTATION-01
+Source Network Address: 192.168.1.50
+Failure Reason: Unknown user name or bad password
+
+Date: 2026-02-19 14:02:18
+Event ID: 4625
+Account Name: USER01
+Workstation Name: WORKSTATION-01
+Source Network Address: 192.168.1.50
+Failure Reason: Unknown user name or bad password
+
+Date: 2026-02-19 14:02:25
+Event ID: 4625
+Account Name: USER01
+Workstation Name: WORKSTATION-01
+Source Network Address: 192.168.1.50
+Failure Reason: Unknown user name or bad password
+
+Date: 2026-02-19 14:03:01
+Event ID: 4624
+Account Name: USER01
+Workstation Name: WORKSTATION-01
+Source Network Address: 192.168.1.50
+Logon Type: Interactive
